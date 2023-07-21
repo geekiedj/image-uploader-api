@@ -6,10 +6,10 @@
   "keywords": [],
   "dependencies": {
     "@sailshq/lodash": "^3.10.3",
-    "sails": "^1.5.4",
+    "sails": "^1.5.7",
     "sails-hook-orm": "^4.0.0",
-    "sails-hook-sockets": "^2.0.0",
-    "skipper": "^0.9.3"
+    "sails-hook-sockets": "^2.0.4",
+    "skipper": "^0.9.4"
   },
   "devDependencies": {
     "eslint": "5.16.0"
